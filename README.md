@@ -23,7 +23,7 @@ We have detected common components and have generated possible variants of it. T
 <div>
   <h1 align="center">Getting Started with React Figma Web 🚀 </h1>
   <strong>
-    Generated with ❤️ from DhiWise
+    Generated with ❤️ from Onyerikam
   </strong>
   <p>
     This is the documentation of React Figma Web.
